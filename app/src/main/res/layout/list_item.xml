@@ -14,28 +14,28 @@
             android:layout_width="80dp"
             android:layout_height="35dp"
             android:gravity="center"
-            android:text="ㅎㅇ" />
+            android:text="이름" />
 
         <TextView
             android:id="@+id/list_menu"
             android:layout_width="80dp"
             android:layout_height="35dp"
             android:gravity="center"
-            android:text="ㅇㅎ" />
+            android:text="메뉴" />
 
         <TextView
             android:id="@+id/list_price"
             android:layout_width="80dp"
             android:layout_height="35dp"
             android:gravity="center"
-            android:text="ㅎㅇ" />
+            android:text="가격" />
 
         <TextView
             android:id="@+id/list_category"
             android:layout_width="80dp"
             android:layout_height="35dp"
             android:gravity="center"
-            android:text="ㅇㅎ" />
+            android:text="카테고리" />
 
     </LinearLayout>
 
